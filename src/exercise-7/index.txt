@@ -1,0 +1,10 @@
+
+--  What methodology do you use to ensure your code is as efficient and scalable as possible? 
+
+
+Below I detail some of the methodologies/good practices that must be used to guarantee good performance:
+
+1) Good design and normalized.
+2) Using indexes and foreign key constraints effectively to optimize performance and ensure data consistency.
+3) Be careful when writing our SQL queries to avoid expensive and repetitive operations
+4) Use of monitoring tools such as Datadog, which allows us to trace our requests and validate their performance.
