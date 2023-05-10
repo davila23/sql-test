@@ -1,0 +1,8 @@
+
+
+
+We can use the "EXPLAIN" command. 
+
+For example:
+
+* To see the execution plan for a query like "SELECT * FROM Events;", we could write "EXPLAIN SELECT * FROM Events;"
