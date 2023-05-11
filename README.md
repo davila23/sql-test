@@ -62,3 +62,9 @@ To the last query, we can simply add the clause at the very end:
 
 
 7.       What methodology do you use to ensure your code is as efficient and scalable as possible? 
+
+
+--------
+
+
+NOTE: first run setup.sql, then you can run 1 by 1 the queries located in /src
