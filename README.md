@@ -67,4 +67,4 @@ To the last query, we can simply add the clause at the very end:
 --------
 
 
-NOTE: first run setup.sql, then you can run 1 by 1 the queries located in /src/exercosa-n
+NOTE: first run setup.sql, then you can run 1 by 1 the queries located in /src/exercise-n
